@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="TemplSettings">
+        <option name="goplsLog" value="$USER_HOME$/gopls.log" />
+        <option name="goplsRPCTrace" value="true" />
+        <option name="http" value="localhost:7575" />
+        <option name="log" value="$USER_HOME$/templ.log" />
+    </component>
+</project>
